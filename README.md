@@ -3,4 +3,4 @@ Corazon is an open-source C# library which aims to make your development life ea
 
 The codes are still experimental. I am trying to combine some codes which I have written and we can see where this will lead to. Feel free to use the codes for any purpose - commercial / non-commercial alike.
 
-Want to work together in this or have any thoughts? Let me know at kennydanani@gmail.com!
+Want to work together in this or have any thought? Let me know at kennydanani@gmail.com!
