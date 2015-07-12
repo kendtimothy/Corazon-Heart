@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -7,8 +7,6 @@ namespace CorazonHeart
     /// <summary>
     /// Obfuscate (mask) and deobfuscate (unmask)
     ///  : Integer value <-> Masked string value
-    /// 
-    /// https://github.com/kendtimothy/Corazon-Heart/blob/master/Services/CObfuscation.cs
     /// </summary>
     public class CObfuscation
     {
