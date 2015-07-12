@@ -8,7 +8,7 @@ namespace CorazonHeart
     /// Obfuscate (mask) and deobfuscate (unmask)
     ///  : Integer value <-> Masked string value
     /// 
-    /// https://github.com/kendanani/cscode/blob/master/Obfuscation.cs
+    /// https://github.com/kendtimothy/Corazon-Heart/blob/master/Services/CObfuscation.cs
     /// </summary>
     public class CObfuscation
     {
