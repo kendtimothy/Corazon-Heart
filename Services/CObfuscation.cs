@@ -20,7 +20,7 @@ namespace CorazonHeart
         /// The characters to represent the obfuscated string.
         /// This set cannot overlap with DummyKeys set.
         /// </summary>
-        private string PossibleKeys = "abhijkmnoprstwyzABCDEFGHIJLNOQRUVWXYZ0134569";
+        private string PossibleKeys = "abhijkmnoprstwyzABCDEFGHIJLNOQUVWXYZ034569";
 
         /// <summary>
         /// The dummy characters to be added in case the obfuscated string is less than MinimumLength.
